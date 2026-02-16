@@ -37,13 +37,23 @@
     }
   ]
     }
-
-    {
-  "name": "Julius Lema Store",
-  "phone": "2557...", 
-  "category": "Household Goods",
-  "products": ["Sahani", "Bilauri", "Vyombo vya Udongo", "Vyombo vya Plastik", "Sufuria"],
-  "location": "Dar es Salaam (Nationwide)",
-  "verified": true,
-  "featured": true
-    }
+    [
+  {
+    "name": "Julius Lema Store",
+    "phone": "255748316371",
+    "category": "Household Goods",
+    "products": ["Sahani", "Bilauri", "Vyombo vya Udongo", "Vyombo vya Plastik", "Sufuria"],
+    "location": "Dar es Salaam (Nationwide)",
+    "verified": true,
+    "featured": true
+  },
+  {
+    "name": "Bwana Juma",
+    "phone": "255712345678",
+    "category": "Drinks",
+    "products": ["Soda", "Water"],
+    "location": "Kariakoo",
+    "verified": true,
+    "featured": false
+  }
+    ]
