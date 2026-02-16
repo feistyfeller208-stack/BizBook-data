@@ -37,15 +37,4 @@
     }
   ]
     }
-    [
-  {
-    "name": "Julius Lema Store",
-    "phone": "255774831371", 
-    "category": "Household Goods",
-    "products": ["Sahani", "Bilauri", "Sufuria", "Vikombe", "chupa za chai", "etc"],
-    "location": "Dar es Salaam (Nationwide)",
-    "verified": true,
-    "featured": true,
-    "joined": "2026-02-16"
-  }
-      ]
+
