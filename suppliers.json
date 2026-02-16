@@ -4,7 +4,7 @@
   "suppliers": [
     {
       "id": "s001",
-      "name": "Guy Fei,",
+      "name": "Guy Fei",
       "phone": "255759968552",
       "category": "General",
       "products": ["Phones", "Laptops", "Electronic accessories"],
@@ -27,33 +27,24 @@
     {
       "id": "s003",
       "name": "Nina's shop",
-      "phone": "+255714026535",
-      "category": "vyombo",
-      "products": ["Bakuli", "Sahani", "Bakuli", "Vyombo vya nyumbani"],
+      "phone": "255714026535",
+      "category": "Vyombo",
+      "products": ["Bakuli", "Sahani", "Vyombo vya nyumbani"],
       "location": "Kariakoo",
       "verified": true,
       "featured": false,
       "joined": "2026-02-15"
+    },
+    {
+      "id": "s004",
+      "name": "Julius Lema Store",
+      "phone": "255748316371",
+      "category": "Household Goods",
+      "products": ["Sahani", "Bilauri", "Vyombo vya Udongo", "Vyombo vya Plastik", "Sufuria"],
+      "location": "Dar es Salaam (Nationwide)",
+      "verified": true,
+      "featured": true,
+      "joined": "2026-02-16"
     }
   ]
-    }
-    [
-  {
-    "name": "Julius Lema Store",
-    "phone": "255748316371",
-    "category": "Household Goods",
-    "products": ["Sahani", "Bilauri", "Vyombo vya Udongo", "Vyombo vya Plastik", "Sufuria"],
-    "location": "Dar es Salaam (Nationwide)",
-    "verified": true,
-    "featured": true
-  },
-  {
-    "name": "Bwana Juma",
-    "phone": "255712345678",
-    "category": "Drinks",
-    "products": ["Soda", "Water"],
-    "location": "Kariakoo",
-    "verified": true,
-    "featured": false
-  }
-    ]
+}
