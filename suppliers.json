@@ -1,0 +1,39 @@
+{
+  "version": "2026-02-16",
+  "lastUpdated": "2026-02-16",
+  "suppliers": [
+    {
+      "id": "s001",
+      "name": "Guy Fei,",
+      "phone": "255759968552",
+      "category": "General",
+      "products": ["Phones", "Laptops", "Electronic accessories"],
+      "location": "Kariakoo",
+      "verified": true,
+      "featured": true,
+      "joined": "2026-01-15"
+    },
+    {
+      "id": "s002",
+      "name": "Joachim",
+      "phone": "255768530758",
+      "category": "Vyombo",
+      "products": ["Bakuli", "Sahani", "Chupa za chai", "Vyombo vya plastiki", "Vikombe"],
+      "location": "Mbagala",
+      "verified": true,
+      "featured": false,
+      "joined": "2026-02-01"
+    },
+    {
+      "id": "s003",
+      "name": "Nina shop",
+      "phone": "+255714026535",
+      "category": "vyombo",
+      "products": ["Bakuli", "Sahani", "Bakuli", "Vyombo vya nyumbani"],
+      "location": "Kariakoo",
+      "verified": true,
+      "featured": false,
+      "joined": "2026-02-15"
+    }
+  ]
+    }
