@@ -26,7 +26,7 @@
     },
     {
       "id": "s003",
-      "name": "Nina shop",
+      "name": "Nina's shop",
       "phone": "+255714026535",
       "category": "vyombo",
       "products": ["Bakuli", "Sahani", "Bakuli", "Vyombo vya nyumbani"],
@@ -37,3 +37,15 @@
     }
   ]
     }
+    [
+  {
+    "name": "Julius Lema Store",
+    "phone": "255774831371", 
+    "category": "Household Goods",
+    "products": ["Sahani", "Bilauri", "Sufuria", "Vikombe", "chupa za chai", "etc"],
+    "location": "Dar es Salaam (Nationwide)",
+    "verified": true,
+    "featured": true,
+    "joined": "2026-02-16"
+  }
+      ]
