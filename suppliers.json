@@ -38,3 +38,12 @@
   ]
     }
 
+    {
+  "name": "Julius Lema Store",
+  "phone": "2557...", 
+  "category": "Household Goods",
+  "products": ["Sahani", "Bilauri", "Vyombo vya Udongo", "Vyombo vya Plastik", "Sufuria"],
+  "location": "Dar es Salaam (Nationwide)",
+  "verified": true,
+  "featured": true
+    }
